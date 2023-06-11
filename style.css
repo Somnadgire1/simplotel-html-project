@@ -152,12 +152,14 @@ nav {
   border-top-right-radius: 70px;
 }
 .card-heading {
+  font-family: Sans-serif;
   padding: 15px;
   text-align: center;
 }
 .card-text {
   padding: 10px;
   text-align: center;
+  font-family: Sans-serif;
 }
 .flex-row {
   display: flex;
